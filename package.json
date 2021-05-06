@@ -14,7 +14,7 @@
   "homepage": "https://bootstrap-vue.js.org",
   "types": "src/index.d.ts",
   "web-types": "dist/web-types.json",
-  "vetur": {
+  "vetr": {
     "tags": "dist/vetur-tags.json",
     "attributes": "dist/vetur-attributes.json"
   },
